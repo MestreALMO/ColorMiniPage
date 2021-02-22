@@ -50,7 +50,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="https://github.com/MestreALMO/ColorMiniPage/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
 A project created in ReactJS with TS that already includes, the following items to accelerate the production: 
@@ -140,7 +140,7 @@ With that the app will be running!!!
 Here is a area to explain how the project works. In this case is a project to accelerate other projects.
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="https://github.com/MestreALMO/ColorMiniPage/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
 </br>
