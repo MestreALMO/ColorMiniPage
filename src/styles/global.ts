@@ -8,7 +8,12 @@ export default createGlobalStyle`
     outline: 0;
 
     button {
-      cursor: pointer;
+      cursor:pointer;
     }
+  }
+
+  body {
+    background: #006400;
+    color: white;
   }
 `;

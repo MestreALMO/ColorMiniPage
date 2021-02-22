@@ -47,11 +47,20 @@
       "no-use-before-define": "off",
       "prettier/prettier": ["error",{
         "endOfLine": "auto"}
+      ],
+      "@typescript-eslint/explicit-function-return-type": [
+        "error",
+        {
+          "allowExpressions": true
+        }
       ]
     },
     "settings": {
       "import/resolver": {
-        "typescript": {}
+        "typescript": {},
+        "babel-plugin-root-import": {
+          "rootPathSuffix": "src"
+        }
       }
     }
 }

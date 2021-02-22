@@ -1,14 +1,22 @@
 import React from 'react';
 
+import Navbar from './Navbar';
+import Tab01 from './Tabs/01';
+import Tab02 from './Tabs/02';
+import Tab03 from './Tabs/03';
+import Tab04 from './Tabs/04';
+import Footer from './Footer';
 import { Container } from './styles';
 
 const Dashboard: React.FC = () => (
   <>
     <Container>
-      <h1>Hello World</h1>
-      <p>Template</p>
-      <br />
-      <a href="Page2">Sign up</a>
+      <Navbar />
+      <Tab01 />
+      <Tab02 />
+      <Tab03 />
+      <Tab04 />
+      <Footer />
     </Container>
   </>
 );
